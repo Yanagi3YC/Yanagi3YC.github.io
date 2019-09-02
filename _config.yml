@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: YoungChan Ryu
+description: Blog
+author: YoungChan Ryu
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/Yanagi3YC
+about: Freshman
 
-baseurl: ""
-url: ""
+baseurl: "yanagi3yc.github.io"
+url: "yanagi3yc.github.io"
 
 allowsearch: true
 
